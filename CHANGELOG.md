@@ -92,3 +92,20 @@ Learned:
 
 Next:
 - Build simple root systems before generating E8.
+
+## v0.6.0
+
+Added:
+- A2 root system visualization
+- Six root vectors
+- Root labels
+- Unit circle reference
+
+Learned:
+- Root systems are highly symmetric vector arrangements.
+- Every root has an opposite root.
+- Root systems are the building blocks of Lie groups.
+- E8 is one of the largest exceptional root systems.
+
+Next:
+- Build the B2 root system and compare geometries.
