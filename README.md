@@ -22,7 +22,9 @@ uv run python src/vector_playground.py
 - [x] v0.2.0 — Rotation Lab
 - [x] v0.2.1 — Rotation Animation
 - [x] v0.3.0 — Interactive Rotation Lab
-- [ ] v0.4.0 — 4D Projection Lab
-- [ ] v0.5.0 — Root Systems
-- [ ] v0.6.0 — E8 Root Generator
+- [x] v0.4.0 — 4D Hypercube Projection
+- [x] v0.5.0 — Animated 4D Hypercube
+- [ ] v0.6.0 — Root System Lab
+- [ ] v0.7.0 — E8 Root Generator
+- [ ] v0.8.0 — E8 Projection Viewer
 - [ ] v1.0.0 — Interactive E8 Explorer

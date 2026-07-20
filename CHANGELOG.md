@@ -60,3 +60,35 @@ Learned:
 
 Next: 
 - Animate the rotating hypercube.
+
+## v0.5.0
+
+Added:
+- Animated 4D hypercube visualization
+- Rotation across the XW, YZ, and ZW planes
+- Real-time projection from 4D coordinates into 2D
+- Continuous rendering of 16 vertices and 32 edges
+
+Learned:
+- Rotations in four dimensions happen within coordinate planes.
+- Multiple rotation matrices can be composed to create complex motion.
+- Animation makes higher-dimensional projections easier to interpret.
+- A 2D image can preserve useful information about motion in a higher-dimensional space.
+
+Next:
+- Build simple root systems before generating E8.## v0.5.0
+
+Added:
+- Animated 4D hypercube visualization
+- Rotation across the XW, YZ, and ZW planes
+- Real-time projection from 4D coordinates into 2D
+- Continuous rendering of 16 vertices and 32 edges
+
+Learned:
+- Rotations in four dimensions happen within coordinate planes.
+- Multiple rotation matrices can be composed to create complex motion.
+- Animation makes higher-dimensional projections easier to interpret.
+- A 2D image can preserve useful information about motion in a higher-dimensional space.
+
+Next:
+- Build simple root systems before generating E8.
